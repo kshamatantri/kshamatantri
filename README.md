@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kshama
-- 👀 I’m interested in 
+- 👀 I’m interested in HTML,CSS,Azure databricks
 - 🌱 I’m currently working in SLK Softwares
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kshamatantri@gmail.com
 
 <!---
 kshamatantri/kshamatantri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
